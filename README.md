@@ -1,10 +1,7 @@
 # Gill Sense – Official Company Website
 
 ## 📌 Project Overview
-**Gill Sense** is the official company website developed during my Software Engineer Trainee role at Gill Instruments Pvt Ltd.  
-This website was fully developed, tested, and handed over to the company as a production-ready solution.
-
-The site is complete and functioning — final deployment and content updates are managed by the organisation.
+**Gill Sense** is the official company website developed during my Software Engineer Trainee role at **Gill Instruments Pvt Ltd**. This website was fully developed, tested, and handed over to the company as a production-ready solution. The site is complete and functioning — final deployment and content updates are managed by the organisation.
 
 ---
 
@@ -47,6 +44,7 @@ This video showcases the full UI, flows, and key page elements.
 
 ## 🖼️ Screenshots
 Below are screenshots highlighting major parts of the website:
+
 ![Homepage](https://github.com/user-attachments/assets/acfb21c5-4c8e-429f-b4b1-59192fbbdd33)
 
 Screenshots are available in the [`ScreenShots/`](https://github.com/KingRajan03/Gill-Sense-Company-Website/tree/main/ScreenShots) folder.
