@@ -37,7 +37,7 @@ This project utilised:
 ---
 
 ## 🎥 Demo Video Link
-A full working demo video of the website can be found here:https://drive.google.com/drive/folders/1ggJ8HatwIPiIlv56g_lBup2zGCjXHyqu?usp=sharing
+A full working demo video of the website can be found here: https://drive.google.com/drive/folders/1ggJ8HatwIPiIlv56g_lBup2zGCjXHyqu?usp=sharing
 This video showcases the full UI, flows, and key page elements.
 
 ---
