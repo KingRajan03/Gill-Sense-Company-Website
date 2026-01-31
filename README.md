@@ -47,14 +47,20 @@ Below are screenshots highlighting major parts of the website:
 
 ![Homepage](https://github.com/user-attachments/assets/acfb21c5-4c8e-429f-b4b1-59192fbbdd33)
 
-Screenshots are available in the [`ScreenShots/`](https://github.com/KingRajan03/Gill-Sense-Company-Website/tree/main/ScreenShots) folder.
+Additional UI Screenshots are available in the [`ScreenShots/`](https://github.com/KingRajan03/Gill-Sense-Company-Website/tree/main/ScreenShots) folder.
+- Homepage sections
+- About Us Page
+- Careers & job listings
+- FAQ page
+- Contact page
+- Footer layout
 
 ---
 
 ## 🔒 Confidentiality Notice
 > This project was developed for Gill Instruments Pvt Ltd as part of my professional duties.  
 > Source code, admin access, and internal configurations are **not included** in this repo due to confidentiality and company policies.  
-> This repository is for **demonstration and portfolio purposes only.**
+> This repository is only for **demonstration and portfolio purposes .**
 
 ---
 
